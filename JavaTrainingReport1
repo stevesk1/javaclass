@@ -1,0 +1,7 @@
+ A Java development cycle is composed of several steps, the initial step being the CODE writing,then the code is comppiled into a BYTECODE. These first steps happen in the COMPILE phase of the preccess.
+The second phase is the RUN phase and in thsi phase the bytecode from the first phase is executed using the JVM (Java Virtual Machine).
+The difference between JDK, JRE,JVM and GIT
+first,JDK (Java Development Kit) is composed of JDK,JRE and JVM which are all development tools.
+JRE(Java Runtime Environment) is the environment in which the compiler works to produce the bytecode.
+The JVM now executes the bytcode into a program and thia execution happens still in the JRE. thia means the JRE contains the JVM.
+GIT is used in the JVM execution to enhace or boost the execution process. GIT works with the interpreterand ADI in the JVM to increase the output of the execution process.
